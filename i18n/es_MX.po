@@ -1,0 +1,130 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* product_box
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 9.0e-20170815\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-07 16:23+0000\n"
+"PO-Revision-Date: 2017-10-07 12:26-0400\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"Language: es_MX\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#. module: product_box
+#: model:ir.model.fields,field_description:product_box.field_product_template_product_box_id
+#: model:ir.ui.view,arch_db:product_box.product_template_form_box_add
+msgid "Box"
+msgstr "Caja"
+
+#. module: product_box
+#: model:ir.model.fields,field_description:product_box.field_product_box_name
+#: model:ir.ui.view,arch_db:product_box.view_product_box_form
+msgid "Box Name"
+msgstr "Caja"
+
+#. module: product_box
+#: model:ir.actions.act_window,name:product_box.action_open_box_products
+#: model:ir.model.fields,field_description:product_box.field_product_box_product_ids
+msgid "Box Products"
+msgstr "Productos por Caja"
+
+#. module: product_box
+#: model:ir.actions.act_window,help:product_box.action_product_box
+msgid "Create a Product Box."
+msgstr "Registre una caja de producto."
+
+#. module: product_box
+#: model:ir.model.fields,field_description:product_box.field_product_box_create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: product_box
+#: model:ir.model.fields,field_description:product_box.field_product_box_create_date
+msgid "Created on"
+msgstr "Creado en"
+
+#. module: product_box
+#: model:ir.model.fields,field_description:product_box.field_product_box_description
+msgid "Description"
+msgstr "Descripción"
+
+#. module: product_box
+#: model:ir.model.fields,field_description:product_box.field_product_box_display_name
+msgid "Display Name"
+msgstr "Nombre desplegado"
+
+#. module: product_box
+#: model:ir.model.fields,field_description:product_box.field_product_box_id
+msgid "ID"
+msgstr "ID"
+
+#. module: product_box
+#: model:ir.model.fields,field_description:product_box.field_product_box___last_update
+msgid "Last Modified on"
+msgstr "Ultima modificacion realizada"
+
+#. module: product_box
+#: model:ir.model.fields,field_description:product_box.field_product_box_write_uid
+msgid "Last Updated by"
+msgstr "Ultima actualizacion por"
+
+#. module: product_box
+#: model:ir.model.fields,field_description:product_box.field_product_box_write_date
+msgid "Last Updated on"
+msgstr "Ultima actualización realizada"
+
+#. module: product_box
+#: model:ir.model.fields,field_description:product_box.field_product_box_products_count
+msgid "Number of products"
+msgstr "Cantidad de productos"
+
+#. module: product_box
+#: model:ir.actions.act_window,name:product_box.action_product_box
+#: model:ir.ui.view,arch_db:product_box.product_box_search_form_view
+#: model:ir.ui.view,arch_db:product_box.view_product_box_form
+msgid "Product Box"
+msgstr "Caja de producto"
+
+#. module: product_box
+#: model:ir.model,name:product_box.model_product_template
+msgid "Product Template"
+msgstr "Plantilla de producto"
+
+#. module: product_box
+#: model:ir.actions.act_window,name:product_box.action_open_single_product_box
+msgid "Product box"
+msgstr "Caja de Producto"
+
+#. module: product_box
+#: model:ir.ui.menu,name:product_box.menu_product_box
+msgid "Product boxes"
+msgstr "Cajas del Producto"
+
+#. module: product_box
+#: model:ir.ui.view,arch_db:product_box.view_product_box_form
+#: model:ir.ui.view,arch_db:product_box.view_product_box_kanban
+msgid "Products"
+msgstr "Productos"
+
+#. module: product_box
+#: model:ir.model.fields,help:product_box.field_product_template_product_box_id
+msgid "Select a box for this product"
+msgstr "Seleccione una caja para este producto"
+
+#. module: product_box
+#: model:ir.ui.view,arch_db:product_box.view_product_template_search_box
+msgid "box"
+msgstr "Caja"
+
+#. module: product_box
+#: model:ir.model,name:product_box.model_product_box
+#: model:ir.ui.view,arch_db:product_box.view_product_box_tree
+msgid "product.box"
+msgstr "product.box"
