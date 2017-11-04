@@ -19,6 +19,7 @@ class ProductBox(models.Model):
         string='Number of products',
         compute='_get_products_count',
     )
+    cost = fields.Float('Cost')
 
     @api.one
     @api.depends('product_ids')
